@@ -14,13 +14,13 @@
 
     <main>
         <section class="card">
-            <img src="img/manti.jpg" alt="Mantı">
+            <img src=".img/manti.jpg" alt="Mantı">
             <h2>Kayseri Mantısı</h2>
             <p>Kayseri'nin meşhur mantısı; küçük, lezzetli ve bol yoğurtludur.</p>
         </section>
 
         <section class="card">
-            <img src="img/kebap.jpg" alt="Adana Kebap">
+            <img src=".img/kebap.jpg" alt="Adana Kebap">
             <h2>Adana Kebap</h2>
             <p>Acılı, bol baharatlı ve közde pişmiş enfes Adana lezzeti.</p>
         </section>
