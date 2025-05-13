@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yöresel Tatlar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Yöresel Tatlar</h1>
+        <p>Türkiye'nin dört bir yanından eşsiz lezzetler</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <img src="img/manti.jpg" alt="Mantı">
+            <h2>Kayseri Mantısı</h2>
+            <p>Kayseri'nin meşhur mantısı; küçük, lezzetli ve bol yoğurtludur.</p>
+        </section>
+
+        <section class="card">
+            <img src="img/kebap.jpg" alt="Adana Kebap">
+            <h2>Adana Kebap</h2>
+            <p>Acılı, bol baharatlı ve közde pişmiş enfes Adana lezzeti.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Yöresel Tatlar</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
